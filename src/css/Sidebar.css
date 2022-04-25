@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    position:absolute;
+    left: 0;
+    width:15vw;
+    height: 100vh;
+    border-right: 2px solid rgba(128, 128, 128, 0.115);
+}
+.get{
+    height: 7vh;
+}
+.container3{
+    display: flex;
+    justify-content:left;
+}
+.hate{
+    font-size: 35px;
+}
